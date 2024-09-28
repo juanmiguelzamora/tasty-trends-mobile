@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\menu_drawer_items.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\menu\\drawer_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_nobg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\nobg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_sig_up.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_sig_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_forgot_pass.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_forgot_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_favorite_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\favorite_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_burger_steak.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\burger_steak.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_gaerlan.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\gaerlan.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_whiteround.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\whiteround.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_ham.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\ham.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_arnold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_arnold.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_order.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\order.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_white_bg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_ads.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\ads.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_btn_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\btn_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_buko.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\buko.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_searchbarbg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\searchbarbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_speical_vigan.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\speical_vigan.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_layout_stall_lists_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_stall_lists_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_cartbg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\cartbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_cart_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\cart_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-debug-32:/drawable_settings_icon.xml.flat",
+        "source": "com.migsdev.tastytrends.app-main-34:/drawable/settings_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_koreanfood.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\koreanfood.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_favorite.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_layout_torecieve_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_torecieve_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_menu_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\menu_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_addtocart_bg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\addtocart_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_minusbtn.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\minusbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_top_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_stall_example.JPG.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\stall_example.JPG"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_egg_silog.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\egg_silog.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_rice_chicken.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\rice_chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_quantityicon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\quantityicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_hotdog.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\hotdog.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_tastytrendlogo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\tastytrendlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_fragment_orders.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_quantitybg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\quantitybg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_longganisa.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\longganisa.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_edittext_bkg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\edittext_bkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_drawer_navigation.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_drawer_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_loginpic.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\loginpic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_baseline_email_25.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\baseline_email_25.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_stall_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\stall_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_jos.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\jos.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_btnstrokes.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\btnstrokes.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_jfcactivity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_jfcactivity.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-debug-32:/layout_layout_status_list.xml.flat",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_status_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\font_poppins_black.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\font\\poppins_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_tab_bkg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\tab_bkg.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-debug-32:/layout_layout_torecieve_list.xml.flat",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_torecieve_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_logincont.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\logincont.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_grannysfoodcorner.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\grannysfoodcorner.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_arnold.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\arnold.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_notification.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_layout_favorite_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_favorite_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_mainbkg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\mainbkg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_mainpic.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\mainpic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_chowfan_siomai.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\chowfan_siomai.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_mainbg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\mainbg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_jfc.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\jfc.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_btn_back.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_viewpager_bkg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\viewpager_bkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_layout_cart_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_cart_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_viewholder.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\viewholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_addbtn.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\addbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_layout_toship_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_toship_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_skinless.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\skinless.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_khay_sa_wrap.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\khay_sa_wrap.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_ads_img.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\ads_img.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_notif.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\notif.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_hamonado.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\hamonado.png"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-debug-32:/layout_activity_order.xml.flat",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_happiness_food.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\happiness_food.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_btn_delete.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_jdjdimsum.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\jdjdimsum.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-debug-32:/layout_activity_profile.xml.flat",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_hotto.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\hotto.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_layout_jfc_menu_lists.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_jfc_menu_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-debug-32:\\drawable_newlogo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\drawable\\newlogo.png"
+    }
+]
