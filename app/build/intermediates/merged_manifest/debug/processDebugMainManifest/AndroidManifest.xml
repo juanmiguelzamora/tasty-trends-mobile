@@ -30,6 +30,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.TastyTrends" >
         <activity
+            android:name="com.migsdev.tastytrends.StallOwnerOrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.migsdev.tastytrends.StallOwnerProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.migsdev.tastytrends.StallOwnerMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.migsdev.tastytrends.NewMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.migsdev.tastytrends.StallOwnerActivity"
+            android:exported="false" />
+        <activity
             android:name="com.migsdev.tastytrends.OrderActivity"
             android:exported="false" />
         <activity

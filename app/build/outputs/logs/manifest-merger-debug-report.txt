@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-69:12
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:2:1-84:12
 MERGED from [androidx.databinding:viewbinding:8.7.0] C:\Users\User\.gradle\caches\8.9\transforms\5eec218adc0c9a8db19418a6829a9ffb\transformed\viewbinding-8.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\User\.gradle\caches\8.9\transforms\5691336f77e8375650cb452eb88a6022\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\.gradle\caches\8.9\transforms\66d18980d3d0e4ca9004688160b44d44\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -62,8 +62,8 @@ ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:7:5-67:19
-INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:7:5-67:19
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:7:5-82:19
+INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:7:5-82:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\User\.gradle\caches\8.9\transforms\5691336f77e8375650cb452eb88a6022\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\User\.gradle\caches\8.9\transforms\5691336f77e8375650cb452eb88a6022\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\.gradle\caches\8.9\transforms\66d18980d3d0e4ca9004688160b44d44\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -102,96 +102,126 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Us
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:15:9-49
 	android:dataExtractionRules
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:9:9-65
-activity#com.migsdev.tastytrends.OrderActivity
+activity#com.migsdev.tastytrends.StallOwnerOrdersActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:18:13-42
-activity#com.migsdev.tastytrends.ArnoldActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:18:13-53
+activity#com.migsdev.tastytrends.StallOwnerProfileActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:21:13-43
-activity#com.migsdev.tastytrends.NotificationActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:21:13-54
+activity#com.migsdev.tastytrends.StallOwnerMenuActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:23:9-25:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:24:13-49
-activity#com.migsdev.tastytrends.FavoritesActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:24:13-51
+activity#com.migsdev.tastytrends.NewMenuActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:26:9-28:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:27:13-46
-activity#com.migsdev.tastytrends.ProfileActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:27:13-44
+activity#com.migsdev.tastytrends.StallOwnerActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:29:9-31:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:30:13-44
-activity#com.migsdev.tastytrends.CartActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:30:13-47
+activity#com.migsdev.tastytrends.OrderActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:32:9-34:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:33:13-41
-activity#com.migsdev.tastytrends.JFCActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:33:13-42
+activity#com.migsdev.tastytrends.ArnoldActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:35:9-37:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:36:13-40
-activity#com.migsdev.tastytrends.HomeActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:36:13-43
+activity#com.migsdev.tastytrends.NotificationActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:39:13-41
-activity#com.migsdev.tastytrends.ForgotPassActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:39:13-49
+activity#com.migsdev.tastytrends.FavoritesActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:42:13-46
+activity#com.migsdev.tastytrends.ProfileActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:44:9-46:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:45:13-47
-activity#com.migsdev.tastytrends.SigUpActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:45:13-44
+activity#com.migsdev.tastytrends.CartActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:47:9-49:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:48:13-42
-activity#com.migsdev.tastytrends.LoginActivity
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:48:13-41
+activity#com.migsdev.tastytrends.JFCActivity
 ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:50:9-52:40
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:52:13-37
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:51:13-42
-activity#com.migsdev.tastytrends.MainActivity
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:53:9-62:20
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:51:13-40
+activity#com.migsdev.tastytrends.HomeActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:53:9-55:40
 	android:exported
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:55:13-36
-	android:theme
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:56:13-69
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:55:13-37
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:54:13-41
+activity#com.migsdev.tastytrends.ForgotPassActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:59:9-61:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:60:13-47
+activity#com.migsdev.tastytrends.SigUpActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:62:9-64:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:63:13-42
+activity#com.migsdev.tastytrends.LoginActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:65:9-67:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:66:13-42
+activity#com.migsdev.tastytrends.MainActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:68:9-77:20
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:70:13-36
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:71:13-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:69:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:57:13-61:29
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:72:13-76:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:58:17-69
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:73:17-69
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:58:25-66
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:73:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:60:17-77
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:75:17-77
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:60:27-74
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:75:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:64:9-66:57
+ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:79:9-81:57
 	android:resource
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:66:13-54
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:81:13-54
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:65:13-43
+		ADDED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:80:13-43
 uses-sdk
 INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml

@@ -84,7 +84,7 @@
 
             <TextView
                 android:id="@+id/textView41"
-                android:layout_width="wrap_content"
+                android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/addtocart_bg"
@@ -101,7 +101,7 @@
 
             <TextView
                 android:id="@+id/textView43"
-                android:layout_width="wrap_content"
+                android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/addtocart_bg"
@@ -118,7 +118,7 @@
 
             <TextView
                 android:id="@+id/textView44"
-                android:layout_width="wrap_content"
+                android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/addtocart_bg"
@@ -135,7 +135,7 @@
 
             <TextView
                 android:id="@+id/textView45"
-                android:layout_width="wrap_content"
+                android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="32dp"
                 android:background="@drawable/addtocart_bg"
