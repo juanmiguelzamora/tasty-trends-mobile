@@ -2,59 +2,92 @@ package com.migsdev.tastytrends
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.TextView
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.AppCompatButton
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.google.android.material.textfield.TextInputEditText
+import com.roydev.tastytrends.LoginReq
+import com.roydev.tastytrends.LoginRes
+import com.roydev.tastytrends.RetrofitInstance
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class LoginActivity : AppCompatActivity() {
+
+    private lateinit var emailEditText: TextInputEditText
+    private lateinit var passwordEditText: TextInputEditText
+    private lateinit var btnSignin: AppCompatButton
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_login)
+
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
 
-        val btnsignin = findViewById<Button>(R.id.btnsignin)
-        btnsignin.setOnClickListener {
-            /*
-            val apiService = ApiClient.apiService
-            val email = findViewById<EditText>(R.id.login_email).text.toString()
-            val password = findViewById<EditText>(R.id.login_password).text.toString()
+        emailEditText = findViewById(R.id.login_email)
+        passwordEditText = findViewById(R.id.login_password)
+        btnSignin = findViewById(R.id.btnsignin)
 
+        btnSignin.setOnClickListener {
+            val email = emailEditText.text.toString()
+            val password = passwordEditText.text.toString()
 
-            btnsignin.isEnabled = false // Disable the button
-            CoroutineScope(Dispatchers.IO).launch {
-
-                try {
-                    val data = apiService.Login(LoginReq(email, password))
-
-                } catch (e: Exception) {
-                    // Handle the error
-                }
+            if (email.isEmpty() || password.isEmpty()) {
+                Toast.makeText(this, "Please enter email and password", Toast.LENGTH_SHORT).show()
+                return@setOnClickListener
             }
 
+            btnSignin.isEnabled = false // Disable the button while processing
 
-             */
-            val intent = Intent(this, HomeActivity::class.java)
-            startActivity(intent)
+            // Launch a coroutine for the login process
+            CoroutineScope(Dispatchers.IO).launch {
+                try {
+                    // Make the login request
+                    val loginRes = RetrofitInstance.api.login(LoginReq(email, password))
+
+                    // Handle successful login
+                    withContext(Dispatchers.Main) {
+                        if (loginRes.success) {
+                            // Navigate to the next activity or handle success
+                            Toast.makeText(this@LoginActivity, "Login successful!", Toast.LENGTH_SHORT).show()
+                            startActivity(Intent(this@LoginActivity, HomeActivity::class.java))
+                        } else {
+                            Toast.makeText(this@LoginActivity, loginRes.message, Toast.LENGTH_SHORT).show()
+                        }
+                    }
+
+                } catch (e: Exception) {
+                    Log.e("LoginActivity", "Error: ${e.message}", e)
+                    withContext(Dispatchers.Main) {
+                        Toast.makeText(this@LoginActivity, "Error: ${e.message}", Toast.LENGTH_SHORT).show()
+                    }
+                } finally {
+                    withContext(Dispatchers.Main) {
+                        btnSignin.isEnabled = true // Re-enable button
+                    }
+                }
+            }
         }
 
-        val btnsignup = findViewById<Button>(R.id.btnreturn)
-        btnsignup.setOnClickListener {
-            val intent = Intent(this, SigUpActivity::class.java)
-            startActivity(intent)
+        findViewById<Button>(R.id.btnreturn).setOnClickListener {
+            startActivity(Intent(this, SigUpActivity::class.java))
         }
 
-        val tvforgotbtn = findViewById<TextView>(R.id.tvforgotbtn)
-        tvforgotbtn.setOnClickListener {
-            val intent = Intent(this, ForgotPassActivity::class.java)
-            startActivity(intent)
+        findViewById<TextView>(R.id.tvforgotbtn).setOnClickListener {
+            startActivity(Intent(this, ForgotPassActivity::class.java))
         }
     }
 }

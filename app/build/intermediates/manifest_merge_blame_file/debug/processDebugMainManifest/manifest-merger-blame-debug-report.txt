@@ -9,237 +9,246 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <permission
-13-->[androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+13-->[androidx.core:core:1.13.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 14        android:name="com.migsdev.tastytrends.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-14-->[androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+14-->[androidx.core:core:1.13.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 15        android:protectionLevel="signature" />
-15-->[androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+15-->[androidx.core:core:1.13.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 16
 17    <uses-permission android:name="com.migsdev.tastytrends.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-17-->[androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
-17-->[androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+17-->[androidx.core:core:1.13.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.13.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:7:5-82:19
+19-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:7:5-83:19
 20        android:allowBackup="true"
-20-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:8:9-35
+20-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:9:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+21-->[androidx.core:core:1.13.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\b481464bf85fdcb6979db6007c73a348\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:9:9-65
+22-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:10:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:10:9-54
+25-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:11:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:11:9-43
+26-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:12:9-43
 27        android:label="@string/app_name"
-27-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:12:9-41
-28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:13:9-54
-29        android:supportsRtl="true"
-29-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:14:9-35
-30        android:testOnly="true"
+27-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:13:9-41
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:8:9-69
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:15:9-35
 31        android:theme="@style/Theme.TastyTrends" >
-31-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:15:9-49
+31-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:16:9-49
 32        <activity
-32-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:17:9-19:40
+32-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:18:9-20:40
 33            android:name="com.migsdev.tastytrends.StallOwnerOrdersActivity"
-33-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:18:13-53
+33-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:19:13-53
 34            android:exported="false" />
-34-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:19:13-37
+34-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:20:13-37
 35        <activity
-35-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:20:9-22:40
+35-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:21:9-23:40
 36            android:name="com.migsdev.tastytrends.StallOwnerProfileActivity"
-36-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:21:13-54
+36-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:22:13-54
 37            android:exported="false" />
-37-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:22:13-37
+37-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:23:13-37
 38        <activity
-38-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:23:9-25:40
+38-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:24:9-26:40
 39            android:name="com.migsdev.tastytrends.StallOwnerMenuActivity"
-39-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:24:13-51
+39-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:25:13-51
 40            android:exported="false" />
-40-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:25:13-37
+40-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:26:13-37
 41        <activity
-41-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:26:9-28:40
+41-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:27:9-29:40
 42            android:name="com.migsdev.tastytrends.NewMenuActivity"
-42-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:27:13-44
+42-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:28:13-44
 43            android:exported="false" />
-43-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:28:13-37
+43-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:29:13-37
 44        <activity
-44-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:29:9-31:40
+44-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:30:9-32:40
 45            android:name="com.migsdev.tastytrends.StallOwnerActivity"
-45-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:30:13-47
+45-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:31:13-47
 46            android:exported="false" />
-46-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:31:13-37
+46-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:32:13-37
 47        <activity
-47-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:32:9-34:40
+47-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:33:9-35:40
 48            android:name="com.migsdev.tastytrends.OrderActivity"
-48-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:33:13-42
+48-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:34:13-42
 49            android:exported="false" />
-49-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:34:13-37
+49-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:35:13-37
 50        <activity
-50-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:35:9-37:40
+50-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:36:9-38:40
 51            android:name="com.migsdev.tastytrends.ArnoldActivity"
-51-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:36:13-43
+51-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:37:13-43
 52            android:exported="false" />
-52-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:37:13-37
+52-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:38:13-37
 53        <activity
-53-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:38:9-40:40
+53-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:39:9-41:40
 54            android:name="com.migsdev.tastytrends.NotificationActivity"
-54-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:39:13-49
+54-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:40:13-49
 55            android:exported="false" />
-55-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:40:13-37
+55-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:41:13-37
 56        <activity
-56-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:41:9-43:40
+56-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:42:9-44:40
 57            android:name="com.migsdev.tastytrends.FavoritesActivity"
-57-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:42:13-46
+57-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:43:13-46
 58            android:exported="false" />
-58-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:43:13-37
+58-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:44:13-37
 59        <activity
-59-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:44:9-46:40
+59-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:45:9-47:40
 60            android:name="com.migsdev.tastytrends.ProfileActivity"
-60-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:45:13-44
+60-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:46:13-44
 61            android:exported="false" />
-61-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:46:13-37
+61-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:47:13-37
 62        <activity
-62-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:47:9-49:40
+62-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:48:9-50:40
 63            android:name="com.migsdev.tastytrends.CartActivity"
-63-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:48:13-41
+63-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:49:13-41
 64            android:exported="false" />
-64-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:49:13-37
+64-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:50:13-37
 65        <activity
-65-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:50:9-52:40
-66            android:name="com.migsdev.tastytrends.JFCActivity"
-66-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:51:13-40
+65-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:51:9-53:40
+66            android:name="com.migsdev.tastytrends.StallActivity"
+66-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:52:13-42
 67            android:exported="false" />
-67-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:52:13-37
+67-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:53:13-37
 68        <activity
-68-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:53:9-55:40
+68-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:54:9-56:40
 69            android:name="com.migsdev.tastytrends.HomeActivity"
-69-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:54:13-41
+69-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:55:13-41
 70            android:exported="false" />
-70-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:55:13-37
+70-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:56:13-37
 71        <activity
-71-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:53:9-55:40
+71-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:54:9-56:40
 72            android:name="com.migsdev.tastytrends.HomeActivity"
-72-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:54:13-41
+72-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:55:13-41
 73            android:exported="false" />
-73-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:55:13-37
+73-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:56:13-37
 74        <activity
-74-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:59:9-61:40
+74-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:60:9-62:40
 75            android:name="com.migsdev.tastytrends.ForgotPassActivity"
-75-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:60:13-47
+75-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:61:13-47
 76            android:exported="false" />
-76-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:61:13-37
+76-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:62:13-37
 77        <activity
-77-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:62:9-64:40
+77-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:63:9-65:40
 78            android:name="com.migsdev.tastytrends.SigUpActivity"
-78-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:63:13-42
+78-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:64:13-42
 79            android:exported="false" />
-79-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:64:13-37
+79-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:65:13-37
 80        <activity
-80-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:65:9-67:40
+80-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:66:9-68:40
 81            android:name="com.migsdev.tastytrends.LoginActivity"
-81-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:66:13-42
+81-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:67:13-42
 82            android:exported="false" />
-82-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:67:13-37
+82-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:68:13-37
 83        <activity
-83-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:68:9-77:20
+83-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:69:9-78:20
 84            android:name="com.migsdev.tastytrends.MainActivity"
-84-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:69:13-41
+84-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:70:13-41
 85            android:exported="true"
-85-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:70:13-36
+85-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:71:13-36
 86            android:theme="@style/Theme.App.SpashScreen.NoActionBar" >
-86-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:71:13-69
+86-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:72:13-69
 87            <intent-filter>
-87-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:72:13-76:29
+87-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:73:13-77:29
 88                <action android:name="android.intent.action.MAIN" />
-88-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:73:17-69
-88-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:73:25-66
+88-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:74:17-69
+88-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:74:25-66
 89
 90                <category android:name="android.intent.category.LAUNCHER" />
-90-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:75:17-77
-90-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:75:27-74
+90-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:76:17-77
+90-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:76:27-74
 91            </intent-filter>
 92        </activity>
 93
 94        <meta-data
-94-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:79:9-81:57
+94-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:80:9-82:57
 95            android:name="preloaded_fonts"
-95-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:80:13-43
+95-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:81:13-43
 96            android:resource="@array/preloaded_fonts" />
-96-->C:\Users\User\AndroidStudioProjects\TastyTrends\app\src\main\AndroidManifest.xml:81:13-54
+96-->C:\Users\ASUS STRIX\AndroidStudioProjects\tasty-trends-mobile\app\src\main\AndroidManifest.xml:82:13-54
 97
 98        <provider
-98-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+98-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 99            android:name="androidx.startup.InitializationProvider"
-99-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+99-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
 100            android:authorities="com.migsdev.tastytrends.androidx-startup"
-100-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+100-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
 101            android:exported="false" >
-101-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+101-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 102            <meta-data
-102-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+102-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
 103                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-103-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+103-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 104                android:value="androidx.startup" />
-104-->[androidx.emoji2:emoji2:1.3.0] C:\Users\User\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+104-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\bf603a5a949aa4c4f04c6675e951f289\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 105            <meta-data
-105-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\.gradle\caches\8.9\transforms\63fd4837781374ce29ac2f28c57d0eff\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+105-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\63fd4837781374ce29ac2f28c57d0eff\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
 106                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-106-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\.gradle\caches\8.9\transforms\63fd4837781374ce29ac2f28c57d0eff\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+106-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\63fd4837781374ce29ac2f28c57d0eff\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
 107                android:value="androidx.startup" />
-107-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\.gradle\caches\8.9\transforms\63fd4837781374ce29ac2f28c57d0eff\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+107-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\63fd4837781374ce29ac2f28c57d0eff\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
 108            <meta-data
-108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 109                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
 110                android:value="androidx.startup" />
-110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
 111        </provider>
-112
-113        <receiver
-113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
-114            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
-115            android:directBootAware="false"
-115-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
-116            android:enabled="true"
-116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
-117            android:exported="true"
-117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
-118            android:permission="android.permission.DUMP" >
-118-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
-119            <intent-filter>
-119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
-120                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
-120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
-121            </intent-filter>
-122            <intent-filter>
-122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
-123                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
-123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
-124            </intent-filter>
-125            <intent-filter>
-125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
-126                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-126-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
-126-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
-127            </intent-filter>
-128            <intent-filter>
-128-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
-129                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-129-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
-129-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\User\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
-130            </intent-filter>
-131        </receiver>
-132    </application>
-133
-134</manifest>
+112        <provider
+112-->[com.squareup.picasso:picasso:2.8] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\f1f94e668e8deaddde8d8c28fdf230c2\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+113            android:name="com.squareup.picasso.PicassoProvider"
+113-->[com.squareup.picasso:picasso:2.8] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\f1f94e668e8deaddde8d8c28fdf230c2\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+114            android:authorities="com.migsdev.tastytrends.com.squareup.picasso"
+114-->[com.squareup.picasso:picasso:2.8] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\f1f94e668e8deaddde8d8c28fdf230c2\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+115            android:exported="false" />
+115-->[com.squareup.picasso:picasso:2.8] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\f1f94e668e8deaddde8d8c28fdf230c2\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+116
+117        <receiver
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+118            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+119            android:directBootAware="false"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+120            android:enabled="true"
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+121            android:exported="true"
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+122            android:permission="android.permission.DUMP" >
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+124                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+125            </intent-filter>
+126            <intent-filter>
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+127                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+128            </intent-filter>
+129            <intent-filter>
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+130                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+131            </intent-filter>
+132            <intent-filter>
+132-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+133                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS STRIX\.gradle\caches\8.9\transforms\dd891572b125b9c3e1cd6eb8189fdbff\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+134            </intent-filter>
+135        </receiver>
+136    </application>
+137
+138</manifest>

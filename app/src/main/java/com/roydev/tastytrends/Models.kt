@@ -7,7 +7,8 @@ data class RegisterReq(
 )
 
 data class RegisterRes(
-    val message: String
+    val message: String,
+    val isSuccessful: Boolean
 )
 
 data class LoginReq(
@@ -16,15 +17,24 @@ data class LoginReq(
 )
 
 data class LoginRes(
-    val token: String,
-    val message: String
+    val token: String, // The authentication token
+    val message: String,
+    val success: Boolean
 )
 
 data class TicketReq(
-    val shop_id: String,
-    val buyer_id: String,
+    val shopId: String, // ID of the shop where the ticket is for
+    val buyerId: String  // ID of the buyer
+)
+
+data class Ticket(
+    val id: String,      // Unique identifier for the ticket
+    val shopId: String,  // ID of the shop associated with the ticket
+    val buyerId: String, // ID of the buyer who purchased the ticket
+    // Add additional fields as needed (e.g., purchaseDate, status)
 )
 
 data class TicketRes(
-    val message: String
+    val tickets: List<Ticket>, // List of tickets associated with the response
+    val message: String        // Additional message from the response
 )

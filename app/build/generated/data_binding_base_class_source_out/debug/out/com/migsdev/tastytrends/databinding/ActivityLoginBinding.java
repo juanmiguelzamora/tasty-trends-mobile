@@ -12,7 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material.textfield.TextInputEditText;
 import com.migsdev.tastytrends.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -32,10 +32,10 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final ImageView imageView2;
 
   @NonNull
-  public final TextInputLayout loginEmail;
+  public final TextInputEditText loginEmail;
 
   @NonNull
-  public final TextInputLayout loginPassword;
+  public final TextInputEditText loginPassword;
 
   @NonNull
   public final LinearLayout main;
@@ -48,7 +48,7 @@ public final class ActivityLoginBinding implements ViewBinding {
 
   private ActivityLoginBinding(@NonNull LinearLayout rootView, @NonNull AppCompatButton btnreturn,
       @NonNull AppCompatButton btnsignin, @NonNull ImageView imageView2,
-      @NonNull TextInputLayout loginEmail, @NonNull TextInputLayout loginPassword,
+      @NonNull TextInputEditText loginEmail, @NonNull TextInputEditText loginPassword,
       @NonNull LinearLayout main, @NonNull TextView textView, @NonNull TextView tvforgotbtn) {
     this.rootView = rootView;
     this.btnreturn = btnreturn;
@@ -107,13 +107,13 @@ public final class ActivityLoginBinding implements ViewBinding {
       }
 
       id = R.id.login_email;
-      TextInputLayout loginEmail = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText loginEmail = ViewBindings.findChildViewById(rootView, id);
       if (loginEmail == null) {
         break missingId;
       }
 
       id = R.id.login_password;
-      TextInputLayout loginPassword = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText loginPassword = ViewBindings.findChildViewById(rootView, id);
       if (loginPassword == null) {
         break missingId;
       }
