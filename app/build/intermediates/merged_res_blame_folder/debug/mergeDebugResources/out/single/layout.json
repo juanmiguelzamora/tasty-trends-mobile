@@ -1,126 +1,118 @@
 [
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_profile.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_profile.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_stall_owner_orders.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_stall_owner_orders.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\fragment_notification.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_notification.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/drawer_header.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/drawer_header.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_home.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_sig_up.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_sig_up.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_favorites.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_favorites.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_favorite_list.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_favorite_list.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_stall_owner.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_stall_owner.xml"
     },
     {
         "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_torecieve_list.xml",
         "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_torecieve_list.xml"
     },
     {
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/viewholder.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/viewholder.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_stall_owner_profile.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_stall_owner_profile.xml"
+    },
+    {
         "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_order.xml",
         "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_order.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_drawer_navigation.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_drawer_navigation.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\drawer_header.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\drawer_header.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_profile.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\fragment_favorites.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_favorites.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_sig_up.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_sig_up.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_forgot_pass.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_forgot_pass.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\fragment_orders.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\fragment_orders.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_stall_menu_list.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_stall_menu_list.xml"
     },
     {
         "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_status_list.xml",
         "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_status_list.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\layout_toship_list.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_toship_list.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\layout_favorite_list.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_favorite_list.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_customerorder_list.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_customerorder_list.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\viewholder.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\viewholder.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_toship_list.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_toship_list.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\layout_torecieve_list.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_torecieve_list.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_cart_item.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_cart_item.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\layout_jfc_menu_lists.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_jfc_menu_lists.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_cart.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_cart.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\layout_cart_list.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_cart_list.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_arnold.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_arnold.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\layout_stall_lists_item.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\layout_stall_lists_item.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_stallactivity.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_stallactivity.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_notification.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_notification.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_forgot_pass.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_forgot_pass.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_cart.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_cart.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_favorites.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_favorites.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_main.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_drawer_navigation.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_drawer_navigation.xml"
+    },
+    {
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_new_menu.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_new_menu.xml"
     },
     {
         "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_profile.xml",
         "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\stall_list.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\stall_list.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_home.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_jfcactivity.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_jfcactivity.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_cart_list.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_cart_list.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_login.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_stall_owner_menu.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_stall_owner_menu.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_order.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_order.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/layout_stall_lists_item.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/layout_stall_lists_item.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_arnold.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_arnold.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-mergeDebugResources-31:\\layout\\activity_home.xml",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.migsdev.tastytrends.app-main-34:\\layout\\activity_home.xml"
+        "merged": "com.migsdev.tastytrends.app-mergeDebugResources-31:/layout/activity_notification.xml",
+        "source": "com.migsdev.tastytrends.app-main-34:/layout/activity_notification.xml"
     }
 ]

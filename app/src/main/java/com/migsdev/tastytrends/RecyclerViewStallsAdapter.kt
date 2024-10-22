@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.Toast
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
+import com.roydev.tastytrends.Stalls
 
 class RecyclerViewStallsAdapter(
     private val activity: HomeActivity,
@@ -23,12 +24,12 @@ class RecyclerViewStallsAdapter(
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
         val stall = stallsList[position]
-        holder.ivStallsImg.setImageResource(stall.image)
+//        holder.ivStallsImg.setImageResource(stall.image)
 
         // Set up click listener on the card view
         holder.cardView.setOnClickListener {
             // Show a toast message (optional)
-            Toast.makeText(activity, stall.title, Toast.LENGTH_SHORT).show()
+            Toast.makeText(activity, stall.shopName, Toast.LENGTH_SHORT).show()
 
             // Trigger the onItemClick listener with the clicked stall
             onItemClick?.invoke(stall)
