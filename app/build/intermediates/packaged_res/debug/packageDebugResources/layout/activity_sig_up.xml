@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#ebebeb"
     android:orientation="vertical"
-    tools:context=".LoginActivity"
-    android:background="#ebebeb">
+    tools:context=".LoginActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -54,7 +53,6 @@
                         android:textSize="20sp" />
 
                     <com.google.android.material.textfield.TextInputLayout
-                        android:id="@+id/Signup_username"
                         android:layout_width="295dp"
                         android:layout_height="70dp"
                         android:layout_gravity="center"
@@ -65,15 +63,16 @@
                         android:textSize="16sp">
 
                         <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/Signup_username"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:background="@drawable/btnstrokes"
-                            android:hint="Username" />
+                            android:hint="Username"
+                            android:textColor="@color/black" />
 
                     </com.google.android.material.textfield.TextInputLayout>
 
                     <com.google.android.material.textfield.TextInputLayout
-                        android:id="@+id/signup_email"
                         android:layout_width="295dp"
                         android:layout_height="70dp"
                         android:layout_gravity="center"
@@ -85,15 +84,16 @@
                         android:textSize="16sp">
 
                         <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/signup_email"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:background="@drawable/btnstrokes"
-                            android:hint="Email" />
+                            android:hint="Email"
+                            android:textColor="@color/black" />
 
                     </com.google.android.material.textfield.TextInputLayout>
 
                     <com.google.android.material.textfield.TextInputLayout
-                        android:id="@+id/signup_password"
                         android:layout_width="295dp"
                         android:layout_height="70dp"
                         android:layout_gravity="center"
@@ -104,15 +104,16 @@
                         android:textSize="16sp">
 
                         <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/signup_password"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:background="@drawable/btnstrokes"
-                            android:hint="Password" />
+                            android:hint="Password"
+                            android:textColor="@color/black" />
 
                     </com.google.android.material.textfield.TextInputLayout>
 
                     <com.google.android.material.textfield.TextInputLayout
-                        android:id="@+id/signup_confirmpass"
                         android:layout_width="295dp"
                         android:layout_height="70dp"
                         android:layout_gravity="center"
@@ -123,15 +124,17 @@
                         android:textSize="16sp">
 
                         <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/signup_confirmpass"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:background="@drawable/btnstrokes"
-                            android:hint="Confirm password" />
+                            android:hint="Confirm password"
+                            android:textColor="@color/black" />
 
                     </com.google.android.material.textfield.TextInputLayout>
 
                     <androidx.appcompat.widget.AppCompatButton
-                        android:id="@+id/btnregiter"
+                        android:id="@+id/btnregsiter"
                         android:layout_width="300dp"
                         android:layout_height="48dp"
                         android:layout_gravity="center"
@@ -143,7 +146,7 @@
                         android:textSize="16sp"
                         app:cornerRadius="30dp" />
 
-                    <TextView
+                    <androidx.appcompat.widget.AppCompatButton
                         android:id="@+id/btnsignin"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"

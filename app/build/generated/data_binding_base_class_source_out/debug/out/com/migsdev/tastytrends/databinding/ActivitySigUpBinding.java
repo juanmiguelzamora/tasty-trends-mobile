@@ -11,7 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material.textfield.TextInputEditText;
 import com.migsdev.tastytrends.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -22,37 +22,37 @@ public final class ActivitySigUpBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final TextInputLayout SignupUsername;
+  public final TextInputEditText SignupUsername;
 
   @NonNull
-  public final AppCompatButton btnregiter;
+  public final AppCompatButton btnregsiter;
 
   @NonNull
-  public final TextView btnsignin;
+  public final AppCompatButton btnsignin;
 
   @NonNull
   public final LinearLayout main;
 
   @NonNull
-  public final TextInputLayout signupConfirmpass;
+  public final TextInputEditText signupConfirmpass;
 
   @NonNull
-  public final TextInputLayout signupEmail;
+  public final TextInputEditText signupEmail;
 
   @NonNull
-  public final TextInputLayout signupPassword;
+  public final TextInputEditText signupPassword;
 
   @NonNull
   public final TextView textView;
 
   private ActivitySigUpBinding(@NonNull LinearLayout rootView,
-      @NonNull TextInputLayout SignupUsername, @NonNull AppCompatButton btnregiter,
-      @NonNull TextView btnsignin, @NonNull LinearLayout main,
-      @NonNull TextInputLayout signupConfirmpass, @NonNull TextInputLayout signupEmail,
-      @NonNull TextInputLayout signupPassword, @NonNull TextView textView) {
+      @NonNull TextInputEditText SignupUsername, @NonNull AppCompatButton btnregsiter,
+      @NonNull AppCompatButton btnsignin, @NonNull LinearLayout main,
+      @NonNull TextInputEditText signupConfirmpass, @NonNull TextInputEditText signupEmail,
+      @NonNull TextInputEditText signupPassword, @NonNull TextView textView) {
     this.rootView = rootView;
     this.SignupUsername = SignupUsername;
-    this.btnregiter = btnregiter;
+    this.btnregsiter = btnregsiter;
     this.btnsignin = btnsignin;
     this.main = main;
     this.signupConfirmpass = signupConfirmpass;
@@ -89,19 +89,19 @@ public final class ActivitySigUpBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.Signup_username;
-      TextInputLayout SignupUsername = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText SignupUsername = ViewBindings.findChildViewById(rootView, id);
       if (SignupUsername == null) {
         break missingId;
       }
 
-      id = R.id.btnregiter;
-      AppCompatButton btnregiter = ViewBindings.findChildViewById(rootView, id);
-      if (btnregiter == null) {
+      id = R.id.btnregsiter;
+      AppCompatButton btnregsiter = ViewBindings.findChildViewById(rootView, id);
+      if (btnregsiter == null) {
         break missingId;
       }
 
       id = R.id.btnsignin;
-      TextView btnsignin = ViewBindings.findChildViewById(rootView, id);
+      AppCompatButton btnsignin = ViewBindings.findChildViewById(rootView, id);
       if (btnsignin == null) {
         break missingId;
       }
@@ -109,19 +109,19 @@ public final class ActivitySigUpBinding implements ViewBinding {
       LinearLayout main = (LinearLayout) rootView;
 
       id = R.id.signup_confirmpass;
-      TextInputLayout signupConfirmpass = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText signupConfirmpass = ViewBindings.findChildViewById(rootView, id);
       if (signupConfirmpass == null) {
         break missingId;
       }
 
       id = R.id.signup_email;
-      TextInputLayout signupEmail = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText signupEmail = ViewBindings.findChildViewById(rootView, id);
       if (signupEmail == null) {
         break missingId;
       }
 
       id = R.id.signup_password;
-      TextInputLayout signupPassword = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText signupPassword = ViewBindings.findChildViewById(rootView, id);
       if (signupPassword == null) {
         break missingId;
       }
@@ -132,7 +132,7 @@ public final class ActivitySigUpBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivitySigUpBinding((LinearLayout) rootView, SignupUsername, btnregiter,
+      return new ActivitySigUpBinding((LinearLayout) rootView, SignupUsername, btnregsiter,
           btnsignin, main, signupConfirmpass, signupEmail, signupPassword, textView);
     }
     String missingId = rootView.getResources().getResourceName(id);

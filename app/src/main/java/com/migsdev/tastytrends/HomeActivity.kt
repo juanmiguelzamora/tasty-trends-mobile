@@ -9,6 +9,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
+import androidx.core.content.ContextCompat.startActivity
 import androidx.core.view.GravityCompat
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
@@ -16,6 +17,7 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.navigation.NavigationView
+import com.roydev.tastytrends.Stalls
 
 class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
@@ -49,6 +51,7 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         recyclerView.layoutManager = layoutManager
         recyclerView.adapter = recyclerViewStallsAdapter
 
+        loadTestStallsData()
         prepareStallsListData()
 
         // Set click listener for the adapter
@@ -74,28 +77,42 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         toggle.syncState()
     }
 
-    private fun prepareStallsListData() {
-        stallList.add(Stalls("jfc", R.drawable.jfc))
-        stallList.add(Stalls("arnold", R.drawable.arnold))
-        stallList.add(Stalls("happiness", R.drawable.happiness_food))
-        stallList.add(Stalls("specialvigan", R.drawable.speical_vigan))
-        stallList.add(Stalls("kyah", R.drawable.khay_sa_wrap))
-        stallList.add(Stalls("jdj", R.drawable.jdjdimsum))
-        stallList.add(Stalls("hotto", R.drawable.hotto))
-        stallList.add(Stalls("buko", R.drawable.buko))
-        stallList.add(Stalls("gaerlan", R.drawable.gaerlan))
-        stallList.add(Stalls("jos", R.drawable.jos))
-        stallList.add(Stalls("koreanfood", R.drawable.koreanfood))
-        stallList.add(Stalls("granny", R.drawable.grannysfoodcorner))
-
-
+    private fun loadTestStallsData() {
+        stallList.add(
+            Stalls(
+                "jfc_12345678901234567890123456789012",
+                "jfc",
+                "roy_12345678901234567890123456789012",
+                R.drawable.jfc.toString()
+            )
+        )
+        stallList.add(
+            Stalls(
+                "arnold_12345678901234567890123456789012",
+                "arnold",
+                "roy_12345678901234567890123456789012",
+                R.drawable.arnold.toString()
+            )
+        )
+//        stallList.add(Stalls("arnold", R.drawable.arnold))
+//        stallList.add(Stalls("happiness", R.drawable.happiness_food))
+//        stallList.add(Stalls("specialvigan", R.drawable.speical_vigan))
+//        stallList.add(Stalls("kyah", R.drawable.khay_sa_wrap))
+//        stallList.add(Stalls("jdj", R.drawable.jdjdimsum))
+//        stallList.add(Stalls("hotto", R.drawable.hotto))
+//        stallList.add(Stalls("buko", R.drawable.buko))
+//        stallList.add(Stalls("gaerlan", R.drawable.gaerlan))
+//        stallList.add(Stalls("jos", R.drawable.jos))
+//        stallList.add(Stalls("koreanfood", R.drawable.koreanfood))
+//        stallList.add(Stalls("granny", R.drawable.grannysfoodcorner))
         recyclerViewStallsAdapter.notifyDataSetChanged()
     }
+    private fun prepareStallsListData() {}
 
     private fun handleStallClick(stall: Stalls) {
-        when (stall.title) {
+        when (stall.shopName) {
             "jfc" -> {
-                startActivity(Intent(this, JFCActivity::class.java)) // Navigate to JFCActivity
+                startActivity(Intent(this, StallActivity::class.java)) // Navigate to JFCActivity
             }
             "arnold" -> {
                 startActivity(Intent(this, ArnoldActivity::class.java)) // Navigate to ArnoldActivity
